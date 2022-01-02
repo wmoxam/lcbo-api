@@ -17,6 +17,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'stripe'          #git: 'https://github.com/stripe/stripe-ruby'
 gem 'dotenv-rails'
 gem 'bootsnap', '>= 1.1.0', require: false
+gem 'ffi', '>= 1.15.4'
 
 #gem 'capistrano',         #'~> 3.3.5'
 gem 'capistrano-rails'
